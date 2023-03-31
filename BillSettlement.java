@@ -59,3 +59,12 @@ public List<String>getSharedBy(){
 return sharedBy;
 }
 }
+
+
+
+
+//Output
+Chaitanyaowes250to others.
+  Divyaowes750to others.
+  Balajiowes-1584to others.
+  Anandowes-334to others.  //
